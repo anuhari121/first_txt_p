@@ -1,0 +1,5 @@
+this is hari
+exit
+>
+[:q
+exit
